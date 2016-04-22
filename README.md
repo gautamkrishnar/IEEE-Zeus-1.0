@@ -1,7 +1,9 @@
 # IEEE Zeus 1.0 Website
 IEEE Zeus, Where memories are made...
 
-Source code of IEEE Zeus 1.0 website, Zeus is the signature event of IEEE RIT SB. 
+Source code of IEEE Zeus 1.0 website, Zeus is the signature event of IEEE RIT SB.
+
+http://zeus.ieeerit.com
 
 ### What was Zeus 1.0?
 Zeus 1.0 was an event organized by IEEE RIT SB on March 18th - 20th 2016 @ Rajiv Gandhi Institute of Technology • Kottayam...
